@@ -4,6 +4,10 @@
     font-family: 'Open Sans', sans-serif;
     box-sizing: border-box;
 }
+nav{
+    background-color: #fff !important;
+
+}
 .navbar-brand,
 a.nav-link{
     font-weight: bold;
@@ -29,6 +33,7 @@ a.nav-link:hover{
     flex-direction: row;
     align-items: center;
     justify-content: center;
+   
 }
 .col{
     display: flex;
