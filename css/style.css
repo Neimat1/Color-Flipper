@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+*{
+    font-family: 'Open Sans', sans-serif;
+    box-sizing: border-box;
+}
+.navbar-brand,
+a.nav-link{
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.navbar-brand,
+.navbar-brand:hover{
+    color:#49a6e9;
+    letter-spacing:5px;
+}
+a.nav-link{
+    color: #063251;
+    letter-spacing:3px;
+    font-size: 16px;
+}
+a.nav-link:hover{
+    color:#49a6e9;
+}
